@@ -43,7 +43,7 @@
 
 ### 2、用以上算法对数据集进行测试：
 
-​         具体代码详见 https://github.com/yihao-guo/Homework/tree/master/Homework1 
+​         具体代码详见 
 
 ## 五、实验总结：
 
